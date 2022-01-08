@@ -1,9 +1,11 @@
+
 ---
-title: "Serveri24h GitHub"
-output: html_document
+# JEEE
 ---
 
-# JEEE
+```bash
+pwd
+```
 
 - 👋 Hi, I’m @serveri24h
 - 👀 I’m interested in something else than completing this introduction
