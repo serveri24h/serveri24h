@@ -1,3 +1,5 @@
+![alt text](portfolio_tausta2.png)
+
 ### New in GitHub but will keep updating these pages.
 
 I'm recently graduated Engineer working on protfolio projects, which will be added to GitHub shortly.
