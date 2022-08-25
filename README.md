@@ -7,7 +7,14 @@
 * Main: Python
 * Others: JS, C, C++, Ruby, Rust, R 
 
-I'am new in Github and the page and repositories will likely be updated frequently. I am recently graduated engineer looking for entry level position as a software or data engineer. 
+I'am new to Github and the page and repositories will likely be updated frequently. I am recently graduated engineer looking for entry level position as a software or data engineer. I will provide four repositories:
+
+* Calendar-Journal
+* Neural Networks from scratch (with numpy)
+* 3d-function display
+* Pygame-game
+
+I will also provide the source code to my master thesis
 
 
 
