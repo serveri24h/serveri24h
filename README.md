@@ -1,9 +1,14 @@
 ![alt text](portfolio_tausta2.png)
 
-## New in GitHub but will keep updating these pages.
+## Hello and welcome to my github page
 
 #### Education: Master of Science || Aalto University
-#### Python programmer
+#### Programming Languages: 
+* Main: Python
+* Others: JS, C, C++, Ruby, Rust, R 
+
+I'am new in Github and the page and repositories will likely be updated frequently. I am recently graduated engineer looking for entry level position as a software or data engineer. 
+
 
 
 <!---
