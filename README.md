@@ -11,7 +11,7 @@ I'am new to Github and the page and repositories will likely be updated frequent
 
 ## Calendar-Journal
 
-![alt text](calendar-journal-demo.png){width=75%}
+![alt text](calendar-journal-demo.png){width=150}
 
 * Neural Networks from scratch (with numpy)
 * 3d-function display
