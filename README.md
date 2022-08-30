@@ -11,11 +11,11 @@ I'am new to Github and the page and repositories will likely be updated frequent
 
 ## Calendar-Journal
 
-![alt text](calendar-journal-demo.png){width=150}
+<img src="calendar-journal-demo.png" width="65%"/>
 
-* Neural Networks from scratch (with numpy)
-* 3d-function display
-* Pygame-game
+## Neural Networks from Scratch
+
+<img src="calendar-journal-demo.png" width="65%"/>
 
 I will also provide the source code to my master thesis
 
