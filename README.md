@@ -9,7 +9,10 @@
 
 I'am new to Github and the page and repositories will likely be updated frequently. I am recently graduated engineer looking for entry level position as a software or data engineer. I will provide four repositories:
 
-* Calendar-Journal
+## Calendar-Journal
+
+![alt text](calendar-journal-demo.png)
+
 * Neural Networks from scratch (with numpy)
 * 3d-function display
 * Pygame-game
