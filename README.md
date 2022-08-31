@@ -23,7 +23,7 @@ This repository provides a text editor app which allows keeping track of notes u
 
 ## Neural Networks from Scratch
 
-[go to repository](https://github.com/serveri24h/NNfrom0.git)
+[go to repository](https://github.com/serveri24h/top-down-game.git)
 
 This repository provides a jupyter notebook that demonstrates how neural networks can be implemented using linear algebra and numpy library.
 
