@@ -23,7 +23,7 @@ This repository provides a text editor app which allows keeping track of notes u
 
 ## Neural Networks from Scratch
 
-[go to repository](https://github.com/serveri24h/top-down-game.git)
+[go to repository](https://github.com/serveri24h/NNfrom0.git)
 
 This repository provides a jupyter notebook that demonstrates how neural networks can be implemented using linear algebra and numpy library.
 
@@ -31,7 +31,7 @@ This repository provides a jupyter notebook that demonstrates how neural network
 
 ## Simple Top-Down Game
 
-[go to repository](https://github.com/serveri24h/NNfrom0.git)
+[go to repository](https://github.com/serveri24h/top-down-game.git)
 
 This repository provides a simple top-down game (ref: The Legend of Zelda NES) implemented with PyGame. The game has still some work to do when it comes to level design and graphics, but physics, combat and other logic elements are implented. Feel free to use this repository to design you own top-down adventure game.
 
