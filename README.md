@@ -17,7 +17,7 @@ I'am new to Github and the page and repositories will likely be updated frequent
 
 [go to repository](https://github.com/serveri24h/CalendarJournal.git)
 
-This app provides a text editort which allows keeping track of notes using a calendar interface, which has been usefull notekeeping method at least for me. The GUI was programmed using PyQt5 library and database for the notes was implemented using sqlite library.
+This repository provides a text editor app which allows keeping track of notes using a calendar interface, which has been usefull notekeeping method at least for me. The GUI was programmed using PyQt5 library and database for the notes was implemented using sqlite library.
 
 <img src="calendar-journal-demo.png" width="65%"/>
 
@@ -25,10 +25,9 @@ This app provides a text editort which allows keeping track of notes using a cal
 
 [go to repository](https://github.com/serveri24h/NNfrom0.git)
 
-<img src="nnfrom0-demo.png" width="65%"/>
+This repository provides a jupyter notebook that demonstrates how neural networks can be implemented using linear algebra and numpy library.
 
-I will also provide the source code to my master thesis
-
+<img src="NNf0-demo.png" width="65%"/>
 
 
 <!---
