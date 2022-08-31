@@ -1,23 +1,24 @@
 ![alt text](portfolio_tausta2.png)
 
-## Hello and welcome to my github page
+# About me
 
-# Education: 
+## Education: 
 #### Master of Science || Aalto University
 * Masters Programme: Life Science Technologies
 * Major: Bioinformatics and Digital Health
 * Thesis: Deep Learning Methodologies in Drug Kinase Prediction [(read here)](https://github.com/serveri24h/MyMasterThesis.git)
 
-# Programming Languages: 
+## Programming Languages: 
 * Main: Python
 * Others: JS, C, C++, Ruby, Rust, R 
 
-### About me and my GitHub pages
+## Why I'm in GitHub
 
 I am recently graduated engineer looking for job as a software or data engineer. 
 
 The main purpose of my GitHub page is to display my coding skills, but all the content (except my thesis) is free to use without any licens. Currently, I have three portfolio projects available and they are listed below.
 
+# Portfolio Projects
 
 ## Calendar Journal
 
