@@ -2,8 +2,12 @@
 
 ## Hello and welcome to my github page
 
-#### Education: Master of Science || Aalto University
-#### Programming Languages: 
+### Education: 
+#### Master of Science || Aalto University
+* Masters Programme: Life Science Technologies
+* Major: Bioinformatics and Digital Health
+
+### Programming Languages: 
 * Main: Python
 * Others: JS, C, C++, Ruby, Rust, R 
 
@@ -11,11 +15,17 @@ I'am new to Github and the page and repositories will likely be updated frequent
 
 ## Calendar-Journal
 
+[go to repository](https://github.com/serveri24h/CalendarJournal.git)
+
+This app provides a text editort which allows keeping track of notes using a calendar interface, which has been usefull notekeeping method at least for me. The GUI was programmed using PyQt5 library and database for the notes was implemented using sqlite library.
+
 <img src="calendar-journal-demo.png" width="65%"/>
 
 ## Neural Networks from Scratch
 
-<img src="calendar-journal-demo.png" width="65%"/>
+[go to repository](https://github.com/serveri24h/NNfrom0.git)
+
+<img src="nnfrom0-demo.png" width="65%"/>
 
 I will also provide the source code to my master thesis
 
@@ -30,5 +40,4 @@ bash toimii näin
 ```bash
 pwd
 ```
-
 --->
