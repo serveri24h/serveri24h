@@ -35,7 +35,7 @@ This repository provides a jupyter notebook that demonstrates how neural network
 
 This repository provides a simple top-down game (ref: The Legend of Zelda NES) implemented with PyGame. The game has still some work to do when it comes to level design and graphics, but physics, combat and other logic elements are implented. Feel free to use this repository to design you own top-down adventure game.
 
-<img src="NNf0-demo.png" width="65%"/>
+<img src="pygame-demo.png" width="65%"/>
 
 
 <!---
