@@ -12,7 +12,9 @@
 * Main: Python
 * Others: JS, C, C++, Ruby, Rust, R 
 
-I'am new to Github and the page and repositories will likely be updated frequently. I am recently graduated engineer looking for entry level position as a software or data engineer. I will provide four repositories:
+### About me and my GitHub pages
+
+I am recently graduated engineer looking for job as a software or data engineer. The main purpose of my GitHub page is to display my coding skills, but all the content (except my thesis) is free to use without any licens. 
 
 ## Calendar Journal
 
