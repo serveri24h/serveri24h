@@ -13,7 +13,7 @@
 
 I'am new to Github and the page and repositories will likely be updated frequently. I am recently graduated engineer looking for entry level position as a software or data engineer. I will provide four repositories:
 
-## Calendar-Journal
+## Calendar Journal
 
 [go to repository](https://github.com/serveri24h/CalendarJournal.git)
 
@@ -26,6 +26,14 @@ This repository provides a text editor app which allows keeping track of notes u
 [go to repository](https://github.com/serveri24h/NNfrom0.git)
 
 This repository provides a jupyter notebook that demonstrates how neural networks can be implemented using linear algebra and numpy library.
+
+<img src="NNf0-demo.png" width="65%"/>
+
+## Simple Top-Down Game
+
+[go to repository](https://github.com/serveri24h/NNfrom0.git)
+
+This repository provides a simple top-down game (ref: The Legend of Zelda NES) implemented with PyGame. The game has still some work to do when it comes to level design and graphics, but physics, combat and other logic elements are implented. Feel free to use this repository to design you own top-down adventure game.
 
 <img src="NNf0-demo.png" width="65%"/>
 
