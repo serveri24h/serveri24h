@@ -6,7 +6,7 @@
 #### Master of Science || Aalto University || Graduation Date 29.7.2022
 * Masters Programme: Life Science Technologies
 * Major: Bioinformatics and Digital Health
-* Thesis: Deep Learning Methodologies in Drug Kinase Prediction [(read here)](https://github.com/serveri24h/MyMasterThesis.git)
+* Thesis: Deep Learning Methodologies in Drug Kinase Prediction [(read here)](https://aaltodoc.aalto.fi/handle/123456789/116273)
 
 ## Programming Languages: 
 * Main: Python
