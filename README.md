@@ -18,6 +18,13 @@ I am recently graduated engineer looking for job as a software or data engineer.
 
 The main purpose of my GitHub page is to display my coding skills, but all the content (except my thesis) is free to use without any licens. Currently, I have three portfolio projects available and they are listed below.
 
+# Github projects that I'm currently working on
+
+## Browser Drum-Machine
+[go to repository](https://github.com/serveri24h/drum-machine.git)
+
+I'm currently working on a drum-machine project for a browser. This project is very much a working progress, but all the feedback is very wellcome. 
+
 # Portfolio Projects
 
 ## Calendar Journal
