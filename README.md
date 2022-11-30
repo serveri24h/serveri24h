@@ -11,8 +11,9 @@
   * [(Repository for replicating the results with pretrained a model)](https://github.com/serveri24h/ThesisResultsReplication)
 
 ## Programming Languages: 
-* Main: Python
-* Others: JS, C, C++, Ruby, Rust, R 
+* Proficient: Python
+* Currently Learning: Rust (getting quite comftable with it)
+* Can work with: JS, C, R 
 
 ## Why I'm in GitHub
 
