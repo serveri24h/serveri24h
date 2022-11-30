@@ -2,6 +2,8 @@
 
 # About me
 
+I am recently graduated engineer looking for oportunities as a software or data engineer. 
+
 ## Education: 
 #### Master of Science || Aalto University || Graduation Date 29.7.2022
 * Masters Programme: Life Science Technologies
@@ -14,11 +16,5 @@
 * Proficient: Python
 * Currently Learning: Rust (getting quite comftable with it)
 * Can work with: JS, C, R 
-
-## Why I'm in GitHub
-
-I am recently graduated engineer looking for job as a software or data engineer. 
-
-All the content (except my thesis) is free to use without any licens. 
 
 
