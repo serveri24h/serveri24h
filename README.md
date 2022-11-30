@@ -1,4 +1,4 @@
-![alt text](portfolio_tausta2.png)
+![alt text](github-image.png)
 
 # About me
 
